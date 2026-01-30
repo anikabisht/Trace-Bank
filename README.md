@@ -1,9 +1,10 @@
 **TraceBank 🏦🔍**
+
 Making Bank AI Decisions Explainable, Accountable, and Trustworthy
 
 
-**
-🚨 Problem**
+
+**🚨 Problem**
 
 Banks rely heavily on black-box ML models for fraud detection and transaction risk scoring.
 
@@ -59,8 +60,10 @@ Regulator: Audit-ready reasoning
 
 Customer: Simple, trust-preserving explanations
 
-**🧩 Why TraceBank is Different
-**
+
+**🧩 Why TraceBank is Different**
+
+
 Solves the black-box AI problem
 
 Preserves model secrecy while enabling explainability
@@ -70,8 +73,9 @@ Reduces false positives → lower churn & support load
 Enables regulatory-compliant automation
 
 Improves trust without sacrificing accuracy
-**
-🛠️ Tech Stack**
+
+
+**🛠️ Tech Stack**
 
 Backend
 
